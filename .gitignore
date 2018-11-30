@@ -1,0 +1,14 @@
+# comentários
+.idea/
+nbproject/
+.vscode/
+# comentários.
+library/Zend/
+
+# comentários.
+composer.lock
+package-lock.json
+
+# comentários.
+node_modules/
+vendor/

@@ -1,0 +1,17 @@
+{
+  "name": "phmiranda/mercadinho",
+  "description": "",
+  "homepage": "http://mercadinho.echosix.com.br",
+  "version": "1.12.",
+  "authors": [
+
+  ],
+  "require": {
+    "almasaeed2010/adminlte": "~2.4",
+    "components/jquery": "^3.3",
+    "twbs/bootstrap": "3.3.7"
+    },
+  "require-dev": {
+    "phpunit/phpunit":"^3.7"
+  }
+}

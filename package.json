@@ -1,0 +1,9 @@
+{
+  "name": "mercadinho",
+  "version": "1.0.0",
+  "dependencies": {
+    "admin-lte": "^2.4.8",
+    "bootstrap": "^3.3.7",
+    "jquery": "^3.3.1"
+  }
+}
