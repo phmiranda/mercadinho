@@ -1,14 +1,16 @@
-# comentários
+# configurações de IDE'a
 .idea/
 nbproject/
 .vscode/
-# comentários.
+
+# configurações do projeto.
+public/default.php
+
+# diretório com a biblioteca do zend framework 1.12.20
 library/Zend/
 
-# comentários.
+# instalação das dependências via composer e NPM.
 composer.lock
 package-lock.json
-
-# comentários.
 node_modules/
 vendor/
